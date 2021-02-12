@@ -12,7 +12,7 @@ The aim of the project is for children to learn and practice basic school knowle
   <img height= "200"  src="https://github.com/zhtcnkaraca/Android-Child-Development/blob/main/image/splashActivity.PNG" alt="SS1" />
   <img height= "200"  src="https://github.com/zhtcnkaraca/Android-Child-Development/blob/main/image/mainActivity.PNG" alt="SS2" />
   <img height= "200"  src="https://github.com/zhtcnkaraca/Android-Child-Development/blob/main/image/detailActivity.PNG" alt="SS3" />
-   <img height= "200"  src="https://github.com/zhtcnkaraca/Android-Child-Development/blob/main/image/questionActivity.PNG" alt="SS4" />
+   <img height= "200"  src="https://github.com/zhtcnkaraca/Android-Child-Development/blob/main/image/detaillActivity.PNG" alt="SS4" />
   
 </p>
 
